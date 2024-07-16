@@ -77,9 +77,13 @@ This project aims to recognize various hand gestures using the MediaPipe framewo
     This is a module for FPS measurement.
 
 ## Reference
-    MediaPipe
-    Kazuhito00/mediapipe-python-sample
-    Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
+* MediaPipe
+* (Kazuhito00/mediapipe-python-sample)
+* [Kazuhito Takahashi](https://twitter.com/KzhtTkhs)
+
+## Credits
+This project includes code from the following sources:
+* [Kazuhito Takahashi](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe?tab=readme-ov-file)
 
 ## License
 hand-gesture-recognition-using-mediapipe is under Apache v2 license.
