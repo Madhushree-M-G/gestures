@@ -1,4 +1,4 @@
-## Hand Gestures Using MediaPipe
+## Hand Gestures Using MediaPipe.
 This project demonstrates the recognition of hand gestures using MediaPipe, an open-source framework by Google for building perception pipelines.
 
 ## Introduction
